@@ -1,3 +1,5 @@
+/////////////////////////////////// dddddd
+/////////////////////////////////// eeeeeeeee
 interface Gadget{}
 class Watch{
 	class Workings implements Gadget{
